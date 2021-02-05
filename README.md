@@ -22,7 +22,7 @@ Click [LSTM_stock_predictor_closingprices.ipynb](https://github.com/pbonner4/LST
 
 ### Libraries and/or Modules used:
 
-numpy 
-pandas 
-sklearn 
-tensorflow 
+numpy, 
+pandas, 
+sklearn, 
+tensorflow. 
